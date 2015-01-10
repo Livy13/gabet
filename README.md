@@ -1,5 +1,5 @@
 # Team TLS/gabet
-## German (For the English version scroll down...)
+## German (For the english version scroll down...)
 
 Hallo,
 dieses GitHub-Projekt ist für das gabet-Projekt vom Team TLS.
