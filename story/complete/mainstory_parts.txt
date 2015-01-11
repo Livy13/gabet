@@ -1,0 +1,9 @@
+Gabet [TLS] - Parts
+Stage: 1 - Spawn
+Parts
+
+1 - Finde ein Medikit für dein Bein.
+2 - Erkunde die Gegend nach Informationen und Gegenständen.
+3 - Finde etwas Nahrhaftes für deinen hungrigen Bauch.
+4 - Erkunde die Umgebung nach Zeichen von Zivilisation.
+5 - Erkunde das Dorf und ÜBERLEBE!
