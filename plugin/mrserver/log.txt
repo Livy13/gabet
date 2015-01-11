@@ -1,0 +1,118 @@
+[17.08.14 00:26:51] Plugin enabled.
+[17.08.14 20:08:09] self: mrserver v0.0.10 | sender: CraftPlayer{name=maxlxl} | command: org.bukkit.command.PluginCommand(mrscmdblock, mrserver v0.0.10) | label: mrscmdblock | args: array(java.lang.String)
+[17.08.14 20:08:14] self: mrserver v0.0.10 | sender: CraftPlayer{name=maxlxl} | command: org.bukkit.command.PluginCommand(mrscmdblock, mrserver v0.0.10) | label: mrscmdblock | args: array(java.lang.String, [u'help'])
+[18.08.14 00:18:27] self: mrserver v0.0.10 | sender: CraftPlayer{name=maxlxl} | command: org.bukkit.command.PluginCommand(mrscmdblock, mrserver v0.0.10) | label: mrscmdblock | args: array(java.lang.String)
+[18.08.14 21:06:32] Plugin disabled.
+[18.08.14 21:07:09] Plugin enabled.
+[20.08.14 00:40:04] Plugin disabled.
+[20.08.14 00:40:38] Plugin enabled.
+[20.08.14 00:44:23] Plugin disabled.
+[20.08.14 00:44:58] Plugin enabled.
+[20.08.14 02:34:42] Plugin disabled.
+[20.08.14 02:35:17] Plugin enabled.
+[20.08.14 08:35:08] Plugin disabled.
+[20.08.14 08:35:48] Plugin enabled.
+[20.08.14 08:36:00] Plugin disabled.
+[20.08.14 08:42:52] Plugin enabled.
+[21.08.14 09:03:58] Plugin enabled.
+[21.08.14 09:19:43] Plugin disabled.
+[21.08.14 09:20:17] Plugin enabled.
+[25.08.14 17:41:46] Plugin disabled.
+[25.08.14 17:42:24] Plugin enabled.
+[26.08.14 21:30:57] self: mrserver v0.0.10 | sender: org.bukkit.craftbukkit.v1_7_R3.command.ColouredConsoleSender@26d7506a | command: org.bukkit.command.PluginCommand(mrsdebuga, mrserver v0.0.10) | label: mrsdebuga | args: array(java.lang.String)
+[26.08.14 21:30:57] DEBUG: A called.
+[26.08.14 21:31:22] DEBUG: A called.
+[26.08.14 21:31:22] self: mrserver v0.0.10 | sender: CraftPlayer{name=maxlxl} | command: org.bukkit.command.PluginCommand(mrsdebuga, mrserver v0.0.10) | label: mrsdebuga | args: array(java.lang.String)
+[26.08.14 21:31:57] self: mrserver v0.0.10 | sender: CraftPlayer{name=maxlxl} | command: org.bukkit.command.PluginCommand(mrsdebugb, mrserver v0.0.10) | label: mrsdebugb | args: array(java.lang.String)
+[26.08.14 21:32:02] self: mrserver v0.0.10 | sender: CraftPlayer{name=maxlxl} | command: org.bukkit.command.PluginCommand(mrsdebugc, mrserver v0.0.10) | label: mrsdebugc | args: array(java.lang.String)
+[26.08.14 21:32:06] self: mrserver v0.0.10 | sender: CraftPlayer{name=maxlxl} | command: org.bukkit.command.PluginCommand(mrscmdblock, mrserver v0.0.10) | label: mrscmdblock | args: array(java.lang.String)
+[26.08.14 21:32:09] self: mrserver v0.0.10 | sender: CraftPlayer{name=maxlxl} | command: org.bukkit.command.PluginCommand(mrscmdblock, mrserver v0.0.10) | label: mrscmdblock | args: array(java.lang.String, [u'help'])
+[26.08.14 21:57:00] self: mrserver v0.0.10 | sender: org.bukkit.craftbukkit.v1_7_R3.command.ColouredConsoleSender@26d7506a | command: org.bukkit.command.PluginCommand(mrsdebuga, mrserver v0.0.10) | label: mrsdebuga | args: array(java.lang.String)
+[26.08.14 21:57:00] DEBUG: A called.
+[28.08.14 14:43:19] Plugin disabled.
+[28.08.14 14:43:57] Plugin enabled.
+[30.08.14 13:33:39] Plugin enabled.
+[30.08.14 14:28:19] Plugin disabled.
+[30.08.14 14:28:57] Plugin enabled.
+[02.09.14 17:21:16] Plugin enabled.
+[02.09.14 20:01:41] Plugin disabled.
+[02.09.14 20:02:27] Plugin enabled.
+[02.09.14 21:40:50] Plugin disabled.
+[02.09.14 21:41:36] Plugin enabled.
+[02.09.14 22:25:16] Plugin disabled.
+[02.09.14 22:25:57] Plugin enabled.
+[02.09.14 23:27:07] Plugin disabled.
+[02.09.14 23:30:11] Plugin enabled.
+[02.09.14 23:30:12] Plugin disabled.
+[02.09.14 23:30:42] Plugin enabled.
+[05.09.14 20:04:43] Plugin enabled.
+[06.09.14 22:39:59] Plugin disabled.
+[06.09.14 22:41:07] Plugin enabled.
+[13.09.14 15:22:27] Plugin disabled.
+[13.09.14 15:24:21] Plugin enabled.
+[13.09.14 15:26:02] Plugin disabled.
+[13.09.14 15:26:27] Plugin enabled.
+[13.09.14 17:33:15] Plugin disabled.
+[13.09.14 17:34:13] Plugin enabled.
+[14.09.14 05:26:56] Plugin enabled.
+[14.09.14 05:28:33] Plugin disabled.
+[14.09.14 05:43:51] Plugin enabled.
+[15.09.14 17:25:56] Plugin enabled.
+[18.09.14 16:06:10] Plugin disabled.
+[18.09.14 16:24:45] Plugin enabled.
+[22.09.14 15:57:54] Plugin disabled.
+[22.09.14 17:44:39] Plugin enabled.
+[26.09.14 21:58:07] Plugin disabled.
+[26.09.14 21:59:32] Plugin enabled.
+[26.09.14 22:54:24] Plugin disabled.
+[26.09.14 22:56:22] Plugin enabled.
+[27.09.14 19:11:38] Plugin enabled.
+[27.09.14 19:15:25] Plugin enabled.
+[28.09.14 01:26:16] Plugin disabled.
+[28.09.14 01:27:17] Plugin enabled.
+[28.09.14 17:59:56] Plugin disabled.
+[28.09.14 18:01:21] Plugin enabled.
+[28.09.14 18:05:09] Plugin disabled.
+[28.09.14 18:05:40] Plugin enabled.
+[28.09.14 22:43:01] Plugin disabled.
+[28.09.14 22:43:37] Plugin enabled.
+[01.10.14 22:03:50] Plugin disabled.
+[01.10.14 22:04:23] Plugin enabled.
+[03.10.14 00:45:53] Plugin disabled.
+[03.10.14 00:46:50] Plugin enabled.
+[03.10.14 00:46:55] Plugin disabled.
+[03.10.14 01:01:38] Plugin disabled.
+[03.10.14 00:50:36] Plugin enabled.
+[03.10.14 01:02:12] Plugin enabled.
+[04.10.14 23:23:03] Plugin disabled.
+[04.10.14 23:38:04] Plugin enabled.
+[05.10.14 01:44:52] Plugin enabled.
+[06.10.14 12:34:30] Plugin disabled.
+[06.10.14 12:38:40] Plugin enabled.
+[06.10.14 15:51:16] Plugin disabled.
+[06.10.14 15:54:34] Plugin enabled.
+[06.10.14 15:54:42] Plugin disabled.
+[06.10.14 15:56:58] Plugin enabled.
+[06.10.14 15:57:22] Plugin disabled.
+[06.10.14 15:57:46] Plugin enabled.
+[06.10.14 15:58:07] Plugin disabled.
+[06.10.14 15:58:29] Plugin enabled.
+[22.10.14 00:37:29] Plugin disabled.
+[30.11.14 15:09:54] Plugin enabled.
+[30.11.14 15:16:17] Plugin disabled.
+[30.11.14 15:53:50] Plugin enabled.
+[30.11.14 15:59:31] Plugin disabled.
+[30.11.14 16:01:55] Plugin enabled.
+[30.11.14 16:24:00] Plugin disabled.
+[30.11.14 16:24:58] Plugin enabled.
+[30.11.14 16:25:30] Plugin disabled.
+[30.11.14 16:52:02] Plugin enabled.
+[30.11.14 16:52:35] Plugin disabled.
+[17.12.14 22:14:27] Plugin enabled.
+[17.12.14 22:19:34] Plugin disabled.
+[17.12.14 22:38:27] Plugin enabled.
+[17.12.14 22:41:44] Plugin disabled.
+[17.12.14 22:45:40] Plugin enabled.
+[17.12.14 22:47:51] Plugin disabled.
+[30.12.14 02:10:41] Plugin enabled.
+[30.12.14 02:10:55] Plugin disabled.
