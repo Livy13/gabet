@@ -1,0 +1,16 @@
+name: mrserver
+main: MRServer
+version: 0.0.10
+commands:
+    mrsdebuga:
+        description: MRServer Debug Script debuga
+        usage: /mrsdebuga
+    mrsdebugb:
+        description: MRServer Debug Script debugb
+        usage: /mrsdebugb
+    mrsdebugc:
+        description: MRServer Debug Script debugc
+        usage: /mrsdebugc
+    mrscmdblock:
+        description: Nur fuer Commandobloecke!
+        usage: /mrscmdblock help
