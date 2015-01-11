@@ -1,0 +1,48 @@
+CHANGELOG
+
+v0.0.1 - FAILED
+! erstes Build
+
+
+v0.0.2 - FAILED
++ def __init__(self): [6-8]
+
+v0.0.3 - FAILED
+- 		print "No Update found. [automatic updates are not usable yet...]" [12]
++ 		print "No Update found. automatic updates are not usable yet..." [12]
+
+v0.0.4 - FAILED
+! Bug-Fix: Plugin wird nicht korrekt geladen. Ursache: {TAB} statt {SPACE}
+- 		print "No Update found. automatic updates are not usable yet..." [12]
++ 		print "No Update found. [automatic updates are not usable yet...]" [12]
+
+v0.0.5 - WORKING
+-         self.listener = MainListener(self) [8]
++ #        self.listener = MainListener(self) [8]
++        pass [7]
+
+v0.0.5 WORKING
+-        print "MRServer-Python v0.0.1 enabled." [12]
++        print "MRServer-Python v", __plugin_version__, " enabled." [12]
+
+v0.0.6 - UNKNOWN (DEBUG-USED)
+v0.0.7 - FAILED
+v0.0.7_2 - WORKING
+! Erstes initial-Build. Grundlegende Meldungen beim laden und beenden des Plugins.
+
+v0.0.8 - UNKNOWN (DEBUG-USED)
++ /mrsdebuga
+
+v0.0.9 - WORKING
++ /mrsdebugb
++ /mrsdebugc
+
+v0.0.10 - WORKING
+- secrets (unused)
++ Log-Datei
+! Bug-Fixes
++ /mrscmdblock help (für spieler)
+! Nachrichten im Chat und Console überarbeitet.
+
+v0.0.11 - work in progress...
++ configurationsdatei (für debugmodus)
