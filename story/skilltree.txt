@@ -1,0 +1,251 @@
+Dinge, die vom maxlxlcraft-Plugin geregelt werden müssen/ können/ sollen:
+
+Gabet [TLS] - Skilltree
+
+NAH-KÄMPFER: Angriff +2, Verteidigung +2
+	Fähigkeiten:
+		Vollstrecker:
+			- Angriff *2
+			Skills I:
+				- Angriff (Boden) +1 | Angriff (Luft) -0.5
+				- Verteidigung +1 | Angriff -0.5
+				- Verteidigung +0.5
+				- Angriff +0.5
+			Skills II:
+				- Angriff +2 | Geschwindigkeit -25%
+				- abbauen (bestimmte Stellen) | Angriff -2
+				- Sprungkraft +50% | Verteidigung -2
+			Skills III:
+				- Angriff (Boden) +2
+				- Angriff (Luft) +1
+				- Angriff +1.5
+				- Geschwindigkeit +25% | Angriff -1
+				- Verteidigung +50% | Angriff -1
+			Skills V:
+				- Angriff +2
+				- Geschwindigkeit +25%
+				- Sprungkraft +50% | Angriff -0.5
+				- abbauen (bestimmte Stellen)
+			Skill X / Final Skill:
+				- Angriff *2 | Verteidigung /2
+		Tank:
+			- Verteidigung *2
+			Skills I:
+				- Verteidigung +1 | Angriff -0.5
+				- Angriff +0.5
+				- Verteidigung +0.5
+				- Angriff +1 | Verteidigung -0.5
+			Skills II:
+				- Verteidigung +2 | Geschwindigkeit -25%
+				- abbauen (bestimmte Stellen) | Verteidigung -2
+				- Sprungkraft +50% | Angriff -2
+			Skills III:
+				- Verteidigung +1.5
+				- Geschwindigkeit +25% | Verteidigung -1
+				- Angriff +50% | Verteidigung -1
+			Skills V:
+				- Verteidigung +2
+				- Geschwindigkeit +25%
+				- Sprungkraft +50% | verteidigung -0.5
+				- abbauen (bestimmte Stellen)
+			Skill X / Final Skill:
+				- Verteidigung *2 | Geschwindigkeit /2
+	Items:
+		Nahrung:
+			- Pilzsuppe
+			- Rohes Schweinefleisch
+			- Rohes Rindfleisch
+			- Rohes Hühnchen
+		Schwerter:
+			- Steinschwert
+			- Eisenschwert
+				- default
+				- Schärfe 3
+				- Plünderung 1
+		Rüstungen:
+			- Lederhelm
+			- Eisenhelm
+			- Lederharnisch
+			- Eisenbrustpanzer
+			- Lederhose
+			- Eisenhose
+			- Lederschuhe
+		Tränke:
+			- Trank der Regeneration | I (0:45)
+			- Trank der Schnelligkeit | I (3:00)
+			- Trank der Stärke | I (3:00)
+		Werkstoffe:
+			Häufig:
+				- Kohle
+				- Stock
+				- Faden
+				- Feder
+				- Feuerstein
+				- Eisenerz
+			Mittelmäßig:
+				- Eisenbarren
+				- Leder
+				- Weizen
+			Selten:
+				- Diamant
+				- Goldnugget
+				- Golderz
+GEHEIM-DIEB: [unsichtbar beim schleichen]
+	Fähigkeiten:
+		Ninja:
+			- Fallschaden /2
+			Skills I:
+				- Schnelligkeit +25% | Angriff -2
+				- Verteidigung +1 | Angriff -0.5
+				- abbauen (bestimmte Stellen) | Schnelligkeit /2
+			Skills II:
+				- Angriff +2 | Verteidigung -1
+				- Verteidigung +2 | Angriff -1
+				- abbauen (bestimmte Stellen) | Angriff -2
+				- Schnelligkeit +25% | Angriff -1
+				- Sprungkraft *2 | Verteidigung -3
+			Skills III:
+				- Angriff +2
+				- Verteidigung +2
+				- abbauen (bestimmte Stellen) | Verteidigung -1
+				- Schnelligkeit +50% | Angriff -1.5
+				- Angriff +1 | Verteidigung +1
+			Skills V:
+				- Angriff +2 | Verteidigung +2
+				- abbauen (bestimmte Stellen)
+				- Schnelligkeit +50% | Angriff -0.5 | Verteidigung -0.5
+				- Sprungkraft *2 | Angriff -1 | Verteidigung -1
+			Skill X / Final Skill:
+				- Sprungkraft *2
+		Assasine: 
+			- Geschwindigkeit *2
+			Skills I:
+				- Angriff +1 | Verteidigung -0.5
+				- abbauen (bestimmte Stellen) | Verteidigung /2
+			Skills II:
+				- Sprungkraft +50% | Verteidigung -3
+				- Verteidigung +2 | Angriff -1.5
+				- abbauen (bestimmte Stellen) | Verteidigung -2
+				- Schnelligkeit +25% | Verteidigung -1
+			Skills III:
+				- Angriff +2
+				- Verteidigung +2
+				- abbauen (bestimmte Stellen) | Angriff -1
+				- Schnelligkeit +50% | Angriff -1.5
+				- Angriff +1 | Verteidigung +1
+			Skills V:
+				- Angriff +2 | Verteidigung +2
+				- abbauen (bestimmte Stellen)
+				- Angriff +6 | Verteidigung -2
+				- Verteidigung +6 | Angriff -2
+				- Sprungkraft *2 | Angriff -1 | Verteidigung -1
+			Skill X / Final Skill:
+				- Verteidigung +50%
+	Items:
+		Nahrung:
+			- Apfel
+			- Pilzsuppe
+			- Brot
+			- Melone
+			- Karotte
+			- Kartoffel
+		Schwerter:
+			- Holzschwert
+			- Steinschwert
+		Rüstungen:
+			- Lederhelm
+			- Lederharnisch
+			- Lederhose
+			- Lederschuhe
+		Bogen:
+			- Bogen
+			- Pfeil
+		Werkstoffe:
+			Häufig:
+				- Holzkohle
+				- Stock
+				- Faden
+				- Leder
+			Mittelmäßig:
+				- Eisenbarren
+				- Weizen
+				- Goldnugget
+			Selten:
+				- Diamant
+				- Goldbarren
+FERN-KÄMPFER: Sprungkraft *2
+	Arrowdispenser:
+		- Schussgeschwindigkeit *2
+	Sniper:
+		- Schusskraft *2
+	Items:
+		Nahrung:
+			- Apfel
+			- Roher Fisch
+			- Roher Lachs
+		Bogen:
+			- Bogen
+				- default
+				- Srärke 3
+				- Schlag 1
+			- Pfeil
+		Rüstungen:
+			- Lederhelm
+			- Eisenhelm
+			- Lederharnisch
+			- Lederhose
+			- Lederschuhe
+			- Eisenschuhe
+		Tränke:
+			- Werfbarer Trank der Vergiftung | I (0:33)
+			- Werfbarer Trank der Langsamkeit | I (1:07)
+			- Werfbarer Trank der Schwäche | I (3:00)
+		Werkstoffe:
+			Häufig:
+				- Kohle
+				- Holzkohle
+				- Stock
+				- Faden
+				- Feder
+				- Feuerstein
+			Mittelmäßig:
+				- Eisenbarren
+				- Leder
+			Selten:
+				- Erfahrungsfläschchen
+SPECIAL: Gesundheit +4
+	Zauberer:
+		- Regenerationsgeschwindigkeit *4
+	Medic:
+		- Gesundheit +16
+	Items:
+		Nahrung:
+			- Apfel
+			- Rohes Rindfleisch
+			- Verrottetes Fleisch
+			- Karotte
+			- Vergiftete Kartoffel
+		Schwerter:
+			- Holzschwert
+			- Steinschwert
+		Bogen:
+			- Bogen
+			- Pfeil
+		Tränke:
+			- Trank der Heilung | II
+			- Werfbarer Trank der Heilung | I
+			- Trank der Regeneration | II (0:22)
+			- Trank der Geschwindigkeit | I (3:00)
+			- Werfbarer Trank der Stärke | I (2:15)
+			- Werfbarer Trank des Shadens | II
+		Werkstoffe:
+			Häufig:
+				- Kohle
+				- Goldbarren
+				- Stock
+				- Fackel
+			Mittelmäßig:
+				- Eisenbarren
+			Selten:
+				- Enderperle
+				- Erfahrungsfläschchen
