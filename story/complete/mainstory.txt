@@ -1,0 +1,29 @@
+Gabet [TLS] - Story
+Stage: 1 - Spawn
+
+Wo bin ich? Wer bin ich? ... Mein Bein, AUA!!
+... Moment, dieses Ding, wie nennt man es? ... Ah, Kam... aauu... Kamera.
+Ich muss eine starken Schlag abbekommen haben. ... Okay, ich habe eine Kamera. Aber jetzt brauche ich erst mal etwas für mein Bein,
+denn sonst kann ich überhaupt nicht laufen. [PART 1]
+
+Oh, ein Medikit. Gut, es ist noch brauchbar. ... OK, nun, wo ich mein Bein verarztet habe, kann ich mich mal der Kamera widmen.
+Mal schauen. ... Mist! Sie geht nicht. Entweder ist sie kaputt oder die Batterien sind leer. [PART 2]
+
+{if[1]} OK, Batterien. Sie passen sogar in die Kamera. Gut. Es wurde sogar schon etwas aufgenommen. Gleich mal anschauen...
+Play. ... {filmsequenz} Ich sitze in einem Flugzeug. Wir werden gleich abstürzen. Da vorne ist eine Insel.
+Hoffentlich überleben wir das! ... Ich muss jetzt meine Schutzweste anziehen. Wünscht mir Glück! {/filmsequenz}
+Ich bin also mit einem Flugzeug geflogen. Dieses ist aus bisher mir unbekannten Gründen abgestürzt.
+Aber das wichtigste, ich habe es überlebt. ...
+So langsam bekomme ich jedoch Hunger. [PART 3]
+
+{if[2]} OK, ein Flugzeug. Oder besser gesagt, die überreste davon. Da es noch brennt, bin ich da warscheinlich mitgeflogen.
+"Hallo? Ist hier noch jemand?" ... Anscheinend keine Überlebenden. Eventuell werden Aufnahmen, die vielleicht auf der Kamera sind,
+mehr darüber aussagen. Aber dafür brauche ich Batterien. Die werde ich schon noch finden. Aber etwas Nahrhaftes wäre auch nicht schlecht.
+Mein Magen grummelt schon. [PART 3]
+
+Gut, jetzt habe ich erstmal was zu essen. Meinem Bein geht es auch schon etwas besser. Dann können wir mal schauen, ob diese Insel bewohnt ist.
+Hoffentlich. Und hoffentlich können wir uns dann verständigen. [PART 4]
+
+Eine Mühle! ... *hust* Ich korrigiere, eine zerfallene Mühle. Aber vielleicht kann man ja noch etwas brauchbares finden. Essen. Oder eine Waffe.
+Oder sogar Informationen über die Kultur, die hier gelebt hat. ... Das ist sogar ein ganzes Dorf! Aber alle Gebäude sind mehr oder weniger zerfallen.
+Ich frage mich nur, warum es verlassen wurde. Aber da ich die Insel nicht verlassen kann, muss ich hier wohl überleben. [PART 5]
